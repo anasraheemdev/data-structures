@@ -1,5 +1,5 @@
 # 🎵 Repo Kithay Banaya Ae Raat Ve  
-### *A Data Structures Collection by Anas Raheem*
+### *A Data Structures Collection For Maam Asra*
 
 **Repo kithay banaya ae raat ve…  
 Jithay paaye ne project saare swaad ve…**
